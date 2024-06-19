@@ -1,0 +1,7 @@
+crear un proyecto en una carpeta individual
+2 iniciamos nrepo individual
+3iniciamos un repo en git hub para subir el arc hivo
+subimoso pusheamos del proyecto5
+5vamos a seting en git bhub y seleccionamos a github pages
+6seleccionamos la rama que queemos en deployar
+7 guradmaos los cambios y espéramos 5 10 min para que se vea en un link
